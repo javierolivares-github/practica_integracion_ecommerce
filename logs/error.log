@@ -1,0 +1,34 @@
+2024-08-09 10:06:08 error: Este es el nivel error.
+2024-08-09 10:06:33 error: Este es el nivel error.
+2024-08-09 10:06:35 error: Este es el nivel error.
+2024-08-09 10:06:38 error: Este es el nivel error.
+2024-08-09 10:06:48 error: Este es el nivel error.
+2024-08-17 10:16:12 error: [POST] /api/user/email/reset-password - self-signed certificate in certificate chain
+2024-08-17 10:29:59 error: [POST] /api/user/email/reset-password - self-signed certificate in certificate chain
+2024-08-17 10:31:55 error: [POST] /api/user/email/reset-password - self-signed certificate in certificate chain
+2024-08-17 10:31:58 error: [POST] /api/user/email/reset-password - self-signed certificate in certificate chain
+2024-08-17 10:43:59 error: [POST] /api/user/email/reset-password - Missing credentials for "PLAIN"
+2024-08-17 10:44:02 error: [POST] /api/user/email/reset-password - Missing credentials for "PLAIN"
+2024-08-17 10:45:00 error: [POST] /api/user/email/reset-password - Missing credentials for "PLAIN"
+2024-08-17 10:45:18 error: [POST] /api/user/email/reset-password - self-signed certificate in certificate chain
+2024-08-17 10:45:41 error: [POST] /api/user/email/reset-password - self-signed certificate in certificate chain
+2024-08-17 10:46:33 error: [POST] /api/user/email/reset-password - self-signed certificate in certificate chain
+2024-08-17 10:54:26 error: [POST] /api/user/email/reset-password - self-signed certificate in certificate chain
+2024-08-17 11:31:00 error: [POST] /api/user/email/reset-password - self-signed certificate in certificate chain
+2024-08-17 11:31:53 error: [POST] /api/user/email/reset-password - Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2d3e3c752aesm4063069a91.42 - gsmtp
+2024-08-17 11:31:57 error: [POST] /api/user/email/reset-password - Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2d3e2e6b228sm4110330a91.14 - gsmtp
+2024-08-17 11:32:22 error: [POST] /api/user/email/reset-password - Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7127af3df55sm4162813b3a.206 - gsmtp
+2024-08-17 11:34:38 error: [POST] /api/user/email/reset-password - Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7c6b61a6e93sm4848977a12.3 - gsmtp
+2024-08-17 11:35:17 error: [POST] /api/user/email/reset-password - Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7127ae0df3fsm4194252b3a.72 - gsmtp
+2024-08-17 11:35:37 error: [POST] /api/user/email/reset-password - self-signed certificate in certificate chain
+2024-08-17 11:36:08 error: [POST] /api/user/email/reset-password - Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-201f02fa4a7sm40595115ad.38 - gsmtp
+2024-08-17 11:39:31 error: [POST] /api/user/email/reset-password - Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-201f02fb432sm40816345ad.54 - gsmtp
+2024-08-17 11:42:25 error: [POST] /api/user/reset-password - customErrors is not defined
+2024-08-17 12:16:11 error:  - Cannot read properties of null (reading 'owner')
